@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+Hello everyone! I am Riona and new to programming. I study Ruby.
